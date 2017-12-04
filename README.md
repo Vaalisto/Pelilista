@@ -57,10 +57,8 @@
 | Nintendo Wii |
 |---|
 | A Boy and his Blob |
-| Little King Story |
 | Muramasa |
 | New Super Mario Bros Wii |
-| The Last Story |
 | Xenoblade Chronicles |
 | Zack & Wiki |
 
@@ -74,10 +72,8 @@
 | Playstation 2 |
 |---|
 | Final Fantasy X |
-| Gladius |
 | Global Defence Force |
 | God of War |
-| ICO |
 | Metal Gear Solid 2: Sons of Liberty |
 | Metal Gear Solid 2: Substance |
 | Metal Gear Solid 3: Snake Eater |
