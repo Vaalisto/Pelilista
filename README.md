@@ -19,6 +19,7 @@
 | Forza Horizon |
 | Forza Motorsport 3 |
 | Forza Motorsport 4 |
+| Grand Theft Auto IV |
 | Grand Theft Auto V |
 | Kameo |
 | Lost Odyssey |
