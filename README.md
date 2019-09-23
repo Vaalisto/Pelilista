@@ -5,6 +5,7 @@
 | Assassin's Creed |
 | Assassin's Creed Brotherhood |
 | Assassin's Creed II |
+| Assassin's Creed Revelations Collector's Edition |
 | Bully |
 | Call of Duty Modern Warfare 3 |
 | Crackdown |
